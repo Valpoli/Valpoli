@@ -26,7 +26,7 @@ You can see what I am currently up to on .
       <ul>
         <li>See my works: <a href="https://github.com/Valpoli?tab=repositories"><strong>GitHub</strong></a></li>
         <!-- <li>Read my articles: <a href="https"><strong>Medium</strong></a></li> -->
-        <li>Portfolio: <a href="todo"><strong>Valpoli's Portfolio</strong></a></li>
+        <li>Portfolio: <a href="https://valpoli.github.io/my-portfolio/"><strong>Valpoli's Portfolio</strong></a></li>
         <li>Digital Resume: <a href="Todo"><strong>HTML Resume</strong></a></li>
       </ul>
       <h3>Contact me</h3>
@@ -179,3 +179,4 @@ You can see what I am currently up to on .
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=valpoli&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Catalin's GitHub Stats" />
 
 </a>
+
