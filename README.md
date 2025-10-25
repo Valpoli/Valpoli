@@ -164,7 +164,7 @@ You can see what I am currently up to on .
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=valpoli&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=1000)
 
 ---
-[![Abhishek's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=valpoli&theme=github-compact)](https://github.com/valpoli/github-readme-activity-graph)
+[![Valpoli's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=valpoli&theme=github-compact)](https://github.com/valpoli/github-readme-activity-graph)
 
 
 ## Achievements
@@ -177,4 +177,5 @@ You can see what I am currently up to on .
 
 <a href="https://github.com/valpoli/valpoli">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=valpoli&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Catalin's GitHub Stats" />
+
 </a>
