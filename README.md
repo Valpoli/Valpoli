@@ -135,12 +135,6 @@ You can see what I am currently up to on .
       </a>
       <br>Git
     </td>
-    <td align="center" width="96">
-      <a href="https://www.linkedin.com/" target="_blank" rel="noreferrer">
-        <img src="icons/linkedin_icon.svg" alt="LinkedIn" width="65" height="65"/>
-      </a>
-      <br>LinkedIn
-    </td>
   </tr>
 </table>
 </div>
@@ -179,4 +173,5 @@ You can see what I am currently up to on .
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=valpoli&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Catalin's GitHub Stats" />
 
 </a>
+
 
