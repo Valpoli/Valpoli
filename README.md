@@ -20,7 +20,7 @@ I'm a Full Stack Developer passionate about clean code, efficient development, a
 ### Contact
 
 - Email: valentin.poli7@gmail.com  
-- LinkedIn: [linkedin.com/in/liynkpgf9hek46mdtguibozauliaztbj2sehqbc](https://linkedin.com/in/liynkpgf9hek46mdtguibozauliaztbj2sehqbc)
+- LinkedIn: [<img src="./icons/linkedin_icon.svg" width="24" alt="LinkedIn"/>](https://linkedin.com/in/liynkpgf9hek46mdtguibozauliaztbj2sehqbc)
 
 ---
 
@@ -120,6 +120,6 @@ I'm a Full Stack Developer passionate about clean code, efficient development, a
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=valpoli&locale=en&layout=compact&card_width=320&hide_border=false)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=valpoli&card_width=1000)](https://git.io/streak-stats)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=valpoli&card_width=1000)](https://git.io/streak-stats)
 
 [![Valpoli's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=valpoli&theme=github-compact)](https://github.com/valpoli/github-readme-activity-graph)
