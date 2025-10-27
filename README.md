@@ -120,6 +120,6 @@ I'm a Full Stack Developer passionate about clean code, efficient development, a
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=valpoli&locale=en&layout=compact&card_width=320&hide_border=false)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=valpoli&card_width=1000)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=valpoli&card_width=1000)
 
-[![Valpoli's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=valpoli&theme=github-compact)](https://github.com/valpoli/github-readme-activity-graph)
+![Valpoli's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=valpoli&theme=github-compact)
