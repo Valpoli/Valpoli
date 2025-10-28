@@ -13,7 +13,7 @@ I'm a Full Stack Developer passionate about clean code, efficient development, a
 
 - Explore my work: [My repositories](https://github.com/Valpoli?tab=repositories)  
 - My portfolio: [valpoli.github.io/my-portfolio](https://valpoli.github.io/my-portfolio/)  
-- My resume: todo  
+- My resume: [My resume](https://drive.google.com/file/d/1Z3P1Ym8l4IW9v7_bY7KH3ACvjVveuIcw/view?usp=sharing) 
 
 ---
 
@@ -123,3 +123,4 @@ I'm a Full Stack Developer passionate about clean code, efficient development, a
 ![GitHub Streak](https://streak-stats.demolab.com/?user=valpoli&card_width=1000)
 
 ![Valpoli's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=valpoli&theme=github-compact)
+
