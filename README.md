@@ -124,3 +124,4 @@ I'm a Full Stack Developer passionate about clean code, efficient development, a
 
 ![Valpoli's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=valpoli&theme=github-compact)
 
+
